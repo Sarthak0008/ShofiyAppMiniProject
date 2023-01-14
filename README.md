@@ -1,1 +1,1 @@
-# ShofiyAppMiniProject
+# ShopifyAppMiniProject
